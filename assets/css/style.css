@@ -1,3 +1,6 @@
+/* Fonts from Google Fonts */
+/* Love Running Project from Code Institute used as a base to build upon */
+
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300&display=swap|Lato');
 
 * {
@@ -23,6 +26,7 @@ h2 {
     float: left;
     padding-left: 30px;
     font-size: 36px;
+    margin-left: 30px;
 }
 
 #menu {
@@ -211,5 +215,89 @@ footer {
     display: flex;
     justify-content: center;
 }
+
+#box {
+    height: 300px;
+    width: 100%;
+}
+
+/* Responsive Design for Tablets */
+
+@media screen and (max-width: 1393px ) {
+    #company-ethos {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    #welcome {
+        padding: 30px 0;
+        margin-top: 0;
+    }
+
+    #left-about-heading, #right-about-heading {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+    .left-about-heading h2 , .right-about-heading h2 {
+        width: 100%;
+        text-align: center;
+       }
+    
+       .left-about-heading p , .right-about-heading p {
+        text-align: center;
+       }
+    
+    #center-about {
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    hr {
+        display: none;
+    }
+    
+    #menu {
+        margin: 0 auto;
+    }
+}
+
+/* Responsive Design for Mobiles */
+
+@media screen and (max-width: 943px){
+
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+    #cover-text {
+        left:50px;
+    }
+   #company-ethos {
+    width: 90%;
+    height: 1200px;
+    margin: 0 auto;
+   }
+
+   .left-about-heading, .right-about-heading {
+    width: inherit;
+   }
+
+   .left-about-heading h2 , .right-about-heading h2 {
+    width: 100%;
+    text-align: center;
+   }
+
+   .left-about-heading p , .right-about-heading p {
+    text-align: center;
+   }
+}
+
 
 
