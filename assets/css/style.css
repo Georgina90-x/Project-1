@@ -60,11 +60,11 @@ ul {
 #company-image {
     height: 600px;
     width: 100%;
-    background: url("https://pixabay.com/get/g1830f5e0057b5837777ac6c5701e9aa8a5bb5690ec9ac8c3e0e5d7b43bd5564a0f58e870cc202145a92c953dabcc89febabab48562431622e8e50f5a773013d1_1280.jpg") no-repeat center center;
-   
+    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/main-image.png") no-repeat center center;
+
     animation-name: company-zoom;
-   animation-duration: 5s;
-   animation-fill-mode: forwards;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
 }
 
 #company-outer {
@@ -78,8 +78,6 @@ ul {
         transform: scale(1);
     }
     to {
-        tranform: scale(1.1);
+        transform: scale(1.1);
     }
 }
-
-
