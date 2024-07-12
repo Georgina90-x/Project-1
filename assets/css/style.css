@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300&display=swap|Lato');
+
+* {
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+body {
+    font-family: Manrope;
+    color: #656256;
+}
+
+h2 {
+    font-family: Manrope;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #ff7733;
+
+}
+
+#logo {
+    float: left;
+    font-size: 36px;
+}
+
+#menu {
+    font-size: 110%;
+    list-style-type: none;
+    letter-spacing: 2px;
+}
+
+#logo, #menu {
+    line-height: 75px;
+}
+
+ul {
+    float: right;
+}
+
+#menu li {
+    float: left;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #656256;
+}
+
+.active {
+    border-bottom: 1px solid #656256;
+}
+
+
+
