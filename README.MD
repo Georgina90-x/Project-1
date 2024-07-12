@@ -13,8 +13,10 @@
 ## Mockup Of Designs / Wireframes
 
 - I used a simple drawing application on iPad in order to visualise how I wanted the Work It website to look, with a simple structure.
+- I liked the layout of the Love Running Project and used this as a skeleton for the project and then built upon that.
 | Insert a screenshot of the mobile first design |
 | Insert a screenshot of the desktop design |
+
 
 ## User Experience
 
