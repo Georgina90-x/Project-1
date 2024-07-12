@@ -203,7 +203,13 @@ footer {
 }
 
 .social-networks li {
-    display: inline;
+    display: inline-block;
+}
+
+footer {
+    height: 150px;
+    display: flex;
+    justify-content: center;
 }
 
 
