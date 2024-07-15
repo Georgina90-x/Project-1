@@ -28,30 +28,28 @@
 
 - The colour scheme is simple and uses colours that compliment each other.
 - A primary colour was chosen as a 'brand' for Work It Gyms that will flow through the entire website.
-- (https://colourmind.io) was used to help create a suitable colour scheme for the website.
+- (https://coolors.co) was used to help create a suitable colour scheme for the website.
+- I kept the colour scheme simple to two colours with a white background. The colours complimented eachother and did not distract from the websites purpose of providing clear information for the user.
 
-- `# put in a colour code` used for primary text.
-- `#` used for primary highlights.
-- `#` used for secondary text.
-- `#` used for secondary highlights.
-- `# and #` combined to create a linear gradient background.
-- `#` used for box shadows and modal background.
+- `#656256` used for primary text.
+- `#ff7733` used for primary highlights.
+
 
 <details>
 <summary>Click for colourmind screenshot</summary>
 
-![screenshot](screenshot.png)
+![screenshot](/workspace/Project-1/assets/images/coolors colour scheme.png)
 
 </details><br>
 
 ## Typography
 
 - I wanted a font that would be clear for users to read with no difficulty and for it to have a distinct identity for the Work It brand.
-- I used Google Fonts to choose a font that was modern and fresh.
+- I used Google Fonts to choose a font that was modern and fresh and settled on Manrope.
 - The generic sans-serif was used as a backup font for users who did not have the google font.
 - For logos, that replaced writing for a more visual aspect, I used Font Awesome. 
 
-[#font choice] (https://googlefonts.com)
+[Manrope] (https://fonts.google.com/specimen/Manrope?preview.text=Work%20It%20Gyms)
 [Font Awesome](https://fontawesome.com)
 
 ### New Site Users
@@ -64,7 +62,7 @@
 
 ### Returning Site Users
 
-- As a returning site user, I would like to see when the classes are.
+- As a returning site user, I would like to know the contact details.
 - As a returning site user, I would like to be see if the subscription prices are the same.
 - As a returning site user, I would like to see if opening hours are impacted by 'holidays'.
 
@@ -118,6 +116,17 @@ The following sites were used to help aid the creation of the website.
 [Colourmind]
 [Font Awesome]
 [Google Fonts]
+[Unsplash]
+
+## Credits
+
+The following are direct links to any external sources used in the creation of the website.
+
+[Dave Bradford Image] https://unsplash.com/photos/man-wearing-white-v-neck-shirt-iFgRcqHznqg by Joseph Gonzalez
+[Scott Lacey Image] https://unsplash.com/photos/mans-grey-and-black-shirt-ILip77SbmOE by Albert Dera
+[Jenny Cleary Image] https://unsplash.com/photos/closeup-photography-of-woman-smiling-mEZ3PoFGs_k by Michael Dam
+[Louise Bassford Image] https://unsplash.com/photos/woman-in-blue-shirt-and-black-leather-boots-wV24lC56dVI by Kade Beasley
+
 
 
 ## Acknowledgements
