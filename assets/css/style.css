@@ -183,8 +183,10 @@ hr {
     margin: 0 auto;
 }
 
+
+
 #circle-cover-bg {
-    background: url("http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/video-mask.png") no-repeat center center;
+    background: url("http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/video-mask.png") no-repeat center center; 
     height: 100%;
     border-radius: 50%;
 }
@@ -196,6 +198,7 @@ footer {
 .social-networks {
     text-align: center;
     display: flex;
+    gap: 3rem;
 }
 
 .social-networks i {
@@ -301,3 +304,53 @@ footer {
 
 /* Personal Trainer Section */
 
+#personal-trainers-info {
+    width: 600px;
+    padding-bottom: 30px;
+    text-align: center;
+    
+}
+
+#dave, #scott, #jenny, #louise {
+    border-radius: 50%;
+}
+
+.trainer-left, .trainer-right {
+    margin-bottom: 30px;
+}
+
+/* Subscriptions Sections */
+
+#subscriptions, #contact {
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+}
+
+#options h2 {
+    margin-top: 30px;
+}
+
+#options h3 {
+    font-size: 80px;
+}
+
+.banner {
+    font-size: 36px;
+    margin-top: 20px;
+}
+
+#options p {
+    font-size: 18px;
+}
+
+/* Contact Us Section */
+
+#contact-us h3 {
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+#contact-us p {
+    font-size: 25px;
+}
