@@ -38,7 +38,7 @@
 <details>
 <summary>Click for colourmind screenshot</summary>
 
-![screenshot](/workspace/Project-1/assets/images/coolors colour scheme.png)
+![Alt Text](/workspace/Project-1/assets/images/coolors colour scheme.png)
 
 </details><br>
 
@@ -100,7 +100,7 @@ The site was deployed to GitHub Pages. The steps to deploy are as follows:
 - In the [GitHub repository](https://github.com/Georgina90-x/Project-1.git)
 - Click the settings tab above.
 - Under 'code and automation' menu at the side click 'pages'.
--Click 'select branch' under the Build and Deployment section.
+- Click 'select branch' under the Build and Deployment section.
 - Select '*main' as the branch and click 'save'.
 
 
@@ -128,6 +128,7 @@ The following are direct links to any external sources used in the creation of t
 [Louise Bassford Image] https://unsplash.com/photos/woman-in-blue-shirt-and-black-leather-boots-wV24lC56dVI by Kade Beasley
 [Gym Area Image] https://prod-everyoneactive-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2017/09/27164607/Free-Weights-Area.jpg 
 [Circle Image] https://cdn.emilyskyefit.com/esf/content/17000/16772/images/landscapewidemobile1x-emilybutt-16-9.jpg 
+[Google Map Instructions] https://blog.hubspot.com/website/how-to-embed-google-map-in-html#:~:text=In%20the%20CSS%2C%20the%20padding,percentage%20value%20of%20padding%2Dbottom. 
 
 
 

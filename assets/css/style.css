@@ -199,12 +199,12 @@ hr {
 }
 
 .google-map {
-    padding-bottom: 50%;
+    padding-bottom: 20%;
     position: relative;
 }
 
 .google-map iframe {
-    height: 50%;
+    height: 100%;
     width: 50%;
     left: 0;
     top: 0;
@@ -292,6 +292,7 @@ footer {
     }
 }
 
+
 /* Responsive Design for Mobiles */
 
 @media screen and (max-width: 943px){
@@ -318,13 +319,24 @@ footer {
 
    .left-about-heading h2 , .right-about-heading h2 {
     width: 100%;
-    text-align: center;
+    
    }
 
    .left-about-heading p , .right-about-heading p {
     text-align: center;
    }
 }
+
+#center-about {
+    padding-bottom: 20px;
+}
+
+#welcome {
+    margin-top: 20px;
+    
+}
+
+
 
 /* Personal Trainer Section */
 
@@ -375,6 +387,7 @@ footer {
 .banner {
     font-size: 36px;
     margin-top: 20px;
+    text-align: center;
 }
 
 #options p {
