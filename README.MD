@@ -127,6 +127,7 @@ The following are direct links to any external sources used in the creation of t
 [Jenny Cleary Image] https://unsplash.com/photos/closeup-photography-of-woman-smiling-mEZ3PoFGs_k by Michael Dam
 [Louise Bassford Image] https://unsplash.com/photos/woman-in-blue-shirt-and-black-leather-boots-wV24lC56dVI by Kade Beasley
 [Gym Area Image] https://prod-everyoneactive-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2017/09/27164607/Free-Weights-Area.jpg 
+[Circle Image] https://cdn.emilyskyefit.com/esf/content/17000/16772/images/landscapewidemobile1x-emilybutt-16-9.jpg 
 
 
 
