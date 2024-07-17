@@ -61,10 +61,11 @@ ul {
     border-bottom: 1px solid #656256;
 }
 
+/* https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/main-image.png */
 #company-image {
     height: 600px;
     width: 100%;
-    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/main-image.png") no-repeat center center;
+    background: url("https://prod-everyoneactive-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2017/09/27164607/Free-Weights-Area.jpg") no-repeat center center;
 
     animation-name: company-zoom;
     animation-duration: 5s;
@@ -171,7 +172,7 @@ hr {
     text-align: center;
     font-size: 280%;
 }
-
+/*
 #circle-container {
     width: 300px;
     height: 300px;
@@ -181,15 +182,17 @@ hr {
     border-width: 1px;
     border-radius: 50%;
     margin: 0 auto;
-}
+/*
 
+/* http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/video-mask.png  */
 
-
+/*
 #circle-cover-bg {
-    background: url("http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/video-mask.png") no-repeat center center; 
+    image: url("http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/video-mask.png ") no-repeat center center; 
     height: 100%;
     border-radius: 50%;
 }
+    */
 
 footer {
     height: 150px;
