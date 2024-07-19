@@ -1,4 +1,4 @@
-# [Work It]('#' "Click to view the deployed site")
+# [Work It - Click Here To View Deployed Site]('https://georgina90-x.github.io/Project-1')
 
 - Work It is a website designed for the marketing purpose of a Work It Gym located in Manchester.
 - Work It website provides information to users that inform them of the purpose and function of Work It Gyms.
@@ -8,14 +8,47 @@
 - Work It has a simple and fresh design to make it understandable.
 
 ## Table of Contents
-- here there will be a breakdown of the read me so users can quickly access the information they want.
+<details>
+<summary>Click here for Table of Contents</summary>
+
+[Mockup Screenshots](#mockup-screenshots)
+
+[UX](#ux)
+
+- [Colour Scheme](#colour-scheme)
+- [Typography](#typography)
+
+[User Stories](#user-stories)
+
+- [New site Users](#new-site-users)
+- [Returning Site Users](#returning-site-users)
+
+[Features](#features)
+
+- [Existing Features](#existing-features)
+- [Future Features](#future-features)
+
+[Testing](#testing)
+
+[Deployment](#deployment)
+
+[Credits](#credits)
+
+[Content and Code](#content-and-code)
+
+- [Acknowledgments](#acknowledgements)
+
+</details>
+
 
 ## Mockup Of Designs / Wireframes
 
 - I used a simple drawing application on iPad in order to visualise how I wanted the Work It website to look, with a simple structure.
 - I liked the layout of the Love Running Project and used this as a skeleton for the project and then built upon that.
-| Insert a screenshot of the mobile first design |
-| Insert a screenshot of the desktop design |
+
+| Desktop Wireframe | Mobile Wireframe|
+| :---: | :---: |
+| ![screenshot](assets/images/workit-wireframe.jpg) | ![screenshot](assets/images/workit-mobile-wireframe.jpg) |
 
 
 ## User Experience
@@ -36,9 +69,9 @@
 
 
 <details>
-<summary>Click for colourmind screenshot</summary>
+<summary>Click for Coolors screenshot</summary>
 
-![Alt Text](/workspace/Project-1/assets/images/coolors colour scheme.png)
+![screenshot](assets/images/coolors-colour-scheme.png)
 
 </details><br>
 
@@ -49,8 +82,9 @@
 - The generic sans-serif was used as a backup font for users who did not have the google font.
 - For logos, that replaced writing for a more visual aspect, I used Font Awesome. 
 
-[Manrope] (https://fonts.google.com/specimen/Manrope?preview.text=Work%20It%20Gyms)
-[Font Awesome](https://fontawesome.com)
+[Manrope](https://fonts.google.com/specimen/Manrope?preview.text=Work%20It%20Gyms) was used for all text within the website.
+
+[Font Awesome](https://fontawesome.com) was used to provide the icons for the home page and contact page.
 
 ### New Site Users
 
@@ -69,12 +103,11 @@
 ### Existing Features
 
 - The website is designed in a way for minimal navigation for users to simply click on a navbar and access the information they want.
-| Home | Home can be navigated via the Home button on the navbar as well as the banner image, as per typical user expectancy.
-| About Us |
-| Personal Trainers |
-| Subscriptions |
-| Contact | 
-| Footer | The footer contains icons to socials for the user to easily contact/ see the content of the gyms socials. 
+- | Home | Home can be navigated via the Home button on the navbar as well as the banner image, as per typical user expectancy.
+- | Personal Trainers | A page that shows the available personal trainers, their credentials and how they can help.
+- | Subscriptions | A page that provides the relevant information in regards to subscribing to use the gym.
+- | Contact | A page that provides clear details how users can contact the company.
+- | Footer | The footer contains icons to socials for the user to easily contact/ see the content of the gyms socials. 
 
 ### Future Features
 | Contact Form | for users to directly contact the gym should they not want to use the other methods.
@@ -106,29 +139,33 @@ The site was deployed to GitHub Pages. The steps to deploy are as follows:
 
 To access the live link, follow this link: (https://georgina90-x.github.io/Project-1/).
 
-## Content & Code
+## Testing
+
+The following were used as part of the testing of the website which tested the HTML and CSS of the website to make sure it followed the standard.
+
+## Content and Code
 
 The following sites were used to help aid the creation of the website.
 
-[Github]
-[Gitpod]
-[Bootstrap]
-[Colourmind]
-[Font Awesome]
-[Google Fonts]
-[Unsplash]
+- [Github](https://www.github.com)
+- [Gitpod](https://www.gitpod.io)
+- [Coolors](https://www.coolors.co)
+- [Font Awesome](https://www.fontawesome.com)
+- [Google Fonts](https://www.fonts.google.com)
+- [Unsplash](https://www.unsplash.com)
 
 ## Credits
 
 The following are direct links to any external sources used in the creation of the website.
 
-[Dave Bradford Image] https://unsplash.com/photos/man-wearing-white-v-neck-shirt-iFgRcqHznqg by Joseph Gonzalez
-[Scott Lacey Image] https://unsplash.com/photos/mans-grey-and-black-shirt-ILip77SbmOE by Albert Dera
-[Jenny Cleary Image] https://unsplash.com/photos/closeup-photography-of-woman-smiling-mEZ3PoFGs_k by Michael Dam
-[Louise Bassford Image] https://unsplash.com/photos/woman-in-blue-shirt-and-black-leather-boots-wV24lC56dVI by Kade Beasley
-[Gym Area Image] https://prod-everyoneactive-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2017/09/27164607/Free-Weights-Area.jpg 
-[Circle Image] https://cdn.emilyskyefit.com/esf/content/17000/16772/images/landscapewidemobile1x-emilybutt-16-9.jpg 
-[Google Map Instructions] https://blog.hubspot.com/website/how-to-embed-google-map-in-html#:~:text=In%20the%20CSS%2C%20the%20padding,percentage%20value%20of%20padding%2Dbottom. 
+- [Dave Bradford Image](https://unsplash.com/photos/man-wearing-white-v-neck-shirt-iFgRcqHznqg) by Joseph Gonzalez
+- [Scott Lacey Image](https://unsplash.com/photos/mans-grey-and-black-shirt-ILip77SbmOE) by Albert Dera
+- [Jenny Cleary Image](https://unsplash.com/photos/closeup-photography-of-woman-smiling-mEZ3PoFGs_k) by Michael Dam
+- [Louise Bassford Image](https://unsplash.com/photos/woman-in-blue-shirt-and-black-leather-boots-wV24lC56dVI) by Kade Beasley
+- [Gym Area Image](https://prod-everyoneactive-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2017/09/27164607/Free-Weights-Area.jpg) 
+- [Circle Image](https://cdn.emilyskyefit.com/esf/content/17000/16772/images/landscapewidemobile1x-emilybutt-16-9.jpg) 
+- [Google Map Instructions](https://blog.hubspot.com/website/how-to-embed-google-map-in-html#:~:text=In%20the%20CSS%2C%20the%20padding,percentage%20value%20of%20padding%2Dbottom) 
+- [README Template](https://github.com/boderg/your-weather/blob/main/README.md) by borderg
 
 
 
