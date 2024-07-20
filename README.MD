@@ -143,6 +143,19 @@ To access the live link, follow this link: (https://georgina90-x.github.io/Proje
 
 The following were used as part of the testing of the website which tested the HTML and CSS of the website to make sure it followed the standard.
 
+<details>
+<summary>Click for Testing Screenshots</summary>
+- Please note that Trainers, Subscriptions & Contact pages have a warning for the Div within the first section has no H2-H6 element. This was a conscious choice as I did not want the text overlay from the Homepage to be visible on the other pages.
+
+![screenshot](assets/images/Index-HTML-Screenshot.png) Index HTML
+![screenshot](assets/images/Trainers-HTML-Screenshot.png) Trainers HTML
+![screenshot](assets/images/Subscriptions-HTML-Screenshot.png) Subscriptions HTML
+![screenshot](assets/images/Contact-HTML-Screenshot.png) Contact Us HTML
+![screenshot](assets/images/CSS-Validator-Screenshot.png) CSS
+- Youtube Testing Broken Links (https://youtu.be/hZ1zpBEhzOs?si=BnCegAWgV9ljSBAB)
+
+</details><br>
+
 ## Content and Code
 
 The following sites were used to help aid the creation of the website.
@@ -164,10 +177,16 @@ The following are direct links to any external sources used in the creation of t
 - [Louise Bassford Image](https://unsplash.com/photos/woman-in-blue-shirt-and-black-leather-boots-wV24lC56dVI) by Kade Beasley
 - [Gym Area Image](https://prod-everyoneactive-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2017/09/27164607/Free-Weights-Area.jpg) 
 - [Circle Image](https://cdn.emilyskyefit.com/esf/content/17000/16772/images/landscapewidemobile1x-emilybutt-16-9.jpg) 
-- [Google Map Instructions](https://blog.hubspot.com/website/how-to-embed-google-map-in-html#:~:text=In%20the%20CSS%2C%20the%20padding,percentage%20value%20of%20padding%2Dbottom) 
+- [Google Map Code](https://blog.hubspot.com/website/how-to-embed-google-map-in-html#:~:text=In%20the%20CSS%2C%20the%20padding,percentage%20value%20of%20padding%2Dbottom) 
 - [README Template](https://github.com/boderg/your-weather/blob/main/README.md) by borderg
+- [Love Running HTML](https://github.com/Code-Institute-Solutions/Love-Running-Solutions/blob/master/04_creating_the_club_ethos/06_club_ethos_icons/index.html)
+- [Love Running CSS](https://github.com/Code-Institute-Solutions/Love-Running-Solutions/blob/master/04_creating_the_club_ethos/06_club_ethos_icons/assets/css/style.css)
 
 
 
 ## Acknowledgements
+A thank you to the following for providing me with assistance via Slack during this project.
+- Harry Dhillon
+- Norbert Tiborcz_5P
+- Vernell_5p
 
