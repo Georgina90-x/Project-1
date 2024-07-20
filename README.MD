@@ -176,11 +176,11 @@ The following are direct links to any external sources used in the creation of t
 - [Jenny Cleary Image](https://unsplash.com/photos/closeup-photography-of-woman-smiling-mEZ3PoFGs_k) by Michael Dam
 - [Louise Bassford Image](https://unsplash.com/photos/woman-in-blue-shirt-and-black-leather-boots-wV24lC56dVI) by Kade Beasley
 - [Gym Area Image](https://prod-everyoneactive-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2017/09/27164607/Free-Weights-Area.jpg) 
-- [Circle Image](https://cdn.emilyskyefit.com/esf/content/17000/16772/images/landscapewidemobile1x-emilybutt-16-9.jpg) 
-- [Google Map Code](https://blog.hubspot.com/website/how-to-embed-google-map-in-html#:~:text=In%20the%20CSS%2C%20the%20padding,percentage%20value%20of%20padding%2Dbottom) 
+- [Circle Image](https://cdn.emilyskyefit.com/esf/content/17000/16772/images/landscapewidemobile1x-emilybutt-16-9.jpg) by Emily Skye Fit
+- [Google Map Code](https://blog.hubspot.com/website/how-to-embed-google-map-in-html#:~:text=In%20the%20CSS%2C%20the%20padding,percentage%20value%20of%20padding%2Dbottom) by Jamie Juviler
 - [README Template](https://github.com/boderg/your-weather/blob/main/README.md) by borderg
-- [Love Running HTML](https://github.com/Code-Institute-Solutions/Love-Running-Solutions/blob/master/04_creating_the_club_ethos/06_club_ethos_icons/index.html)
-- [Love Running CSS](https://github.com/Code-Institute-Solutions/Love-Running-Solutions/blob/master/04_creating_the_club_ethos/06_club_ethos_icons/assets/css/style.css)
+- [Love Running HTML](https://github.com/Code-Institute-Solutions/Love-Running-Solutions/blob/master/04_creating_the_club_ethos/06_club_ethos_icons/index.html) by Code Institute
+- [Love Running CSS](https://github.com/Code-Institute-Solutions/Love-Running-Solutions/blob/master/04_creating_the_club_ethos/06_club_ethos_icons/assets/css/style.css) by Code Institute
 
 
 
