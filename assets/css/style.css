@@ -63,7 +63,7 @@ ul {
     border-bottom: 1px solid #656256;
 }
 
-/* https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/main-image.png */
+
 #company-image {
     height: 600px;
     width: 100%;
@@ -194,7 +194,6 @@ hr {
     margin: 0 auto;
 }
 
-/* http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/video-mask.png  */
 
 
 #circle-cover-bg {
@@ -300,6 +299,47 @@ footer {
     #menu {
         margin: 0 auto;
     }
+
+    #personal-trainers {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+    }
+    
+    #meet-the-trainers {
+        text-align: center;
+        font-size: 15px;
+    }
+    
+    #personal-trainers h2 {
+        text-align: center;
+        padding-right: 500px;
+        
+    }
+
+    #personal-trainers h3 {
+        display: none;
+    }
+    #personal-trainers-info {
+        width: 100%;
+        padding-bottom: 30px;
+        text-align: center;
+        padding-right: 500px;
+        
+    }
+
+    #personal-trainers-info p {
+        display: none;
+    }
+    
+    #dave, #scott, #jenny, #louise {
+        border-radius: 50%;
+        float: left;
+    }
+    
+    .trainer-left, .trainer-right {
+        margin-bottom: 30px;
+    }
 }
 
 
@@ -315,7 +355,7 @@ footer {
         line-height: 25px;
     }
     #cover-text {
-        left:50px;
+        left: 0px;
     }
    #company-ethos {
     width: 90%;
@@ -329,13 +369,16 @@ footer {
 
    .left-about-heading h2 , .right-about-heading h2 {
     width: 100%;
+    text-align: center;
+    font-size: 20px;
+    margin-right: 20px;
     
    }
 
    .left-about-heading p , .right-about-heading p {
-    text-align: center;
+    display: none;
    }
-}
+
 
 #center-about {
     padding-bottom: 20px;
@@ -344,6 +387,103 @@ footer {
 #welcome {
     margin-top: 20px;
     
+}
+
+#personal-trainers-info p {
+    display: none;
+}
+
+#personal-trainers {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+#meet-the-trainers {
+    text-align: center;
+    font-size: 15px;
+}
+
+#personal-trainers h2 {
+    text-align: center;
+    padding-right: 500px;
+    
+}
+
+#personal-trainers h3 {
+    display: none;
+}
+#personal-trainers-info {
+    width: 100%;
+    padding-bottom: 30px;
+    text-align: center;
+    padding-right: 500px;
+    
+}
+
+#personal-trainers-info p {
+    display: none;
+}
+
+#dave, #scott, #jenny, #louise {
+    border-radius: 50%;
+    float: left;
+}
+
+.trainer-left, .trainer-right {
+    margin-bottom: 30px;
+}
+
+
+#subscriptions, #contact {
+    margin: 0;
+    text-align: left;
+    display: flex;
+}
+
+#options h2, #options1 h2 {
+    margin-top: 30px;
+}
+
+#options h3, #options1 h3 {
+    font-size: 40px;
+}
+
+#options p, #options1 p {
+    display: none;
+}
+
+#options ol {
+    display: none;
+}
+
+
+.banner {
+    font-size: 36px;
+    margin-top: 20px;
+    text-align: left;
+}
+
+
+
+
+/* Contact Us Section */
+
+.banner-contact {
+ font-size: 36px;
+ margin-top: 20px;
+}
+
+#contact-us h3 {
+    font-size: 36px;
+    margin-top: 20px;
+}
+
+#contact-us p {
+    font-size: 25px;
+}
+
+
 }
 
 
