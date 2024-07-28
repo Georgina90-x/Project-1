@@ -86,6 +86,8 @@
 
 [Font Awesome](https://fontawesome.com) was used to provide the icons for the home page and contact page.
 
+## User Stories
+
 ### New Site Users
 
 - As a new site user, I would like to know the purpose of the website.
@@ -99,6 +101,8 @@
 - As a returning site user, I would like to know the contact details.
 - As a returning site user, I would like to be see if the subscription prices are the same.
 - As a returning site user, I would like to see if opening hours are impacted by 'holidays'.
+
+## Features
 
 ### Existing Features
 
@@ -181,6 +185,7 @@ The following are direct links to any external sources used in the creation of t
 - [README Template](https://github.com/boderg/your-weather/blob/main/README.md) by borderg
 - [Love Running HTML](https://github.com/Code-Institute-Solutions/Love-Running-Solutions/blob/master/04_creating_the_club_ethos/06_club_ethos_icons/index.html) by Code Institute
 - [Love Running CSS](https://github.com/Code-Institute-Solutions/Love-Running-Solutions/blob/master/04_creating_the_club_ethos/06_club_ethos_icons/assets/css/style.css) by Code Institute
+- [Tour of Gym](https://www.youtube.com/watch?v=mBY68kFvhq8) by Life Fitness NZ
 
 
 
